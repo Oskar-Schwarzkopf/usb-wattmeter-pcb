@@ -64,11 +64,11 @@
 4.  有效输入会以绿色 LED 闪烁作标识。
 5.  SW3 为复位按键。
 
-![StartupUI](.\Assets\StartupUI.jpg)
+![StartupUI](./assets/StartupUI.jpg)
 
-![DigitMode](.\Assets\DigitMode.jpg)
+![DigitMode](./assets/DigitMode.jpg)
 
-![PowerChart](.\assets\PowerChart.jpg)
+![PowerChart](./assets/PowerChart.jpg)
 
 ## 改进方向 🚀
 
