@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\USBPowerMetre.ewp</path>
+    </project>
+    <batchBuild>
+        <batchDefinition>
+            <name>USBPowerMetre</name>
+        </batchDefinition>
+    </batchBuild>
+</workspace>

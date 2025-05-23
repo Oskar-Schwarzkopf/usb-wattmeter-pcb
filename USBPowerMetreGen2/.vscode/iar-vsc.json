@@ -1,0 +1,18 @@
+{
+  "workspace": {
+    "path": "${workspaceFolder}\\USBPowerMetre.eww"
+  },
+  "workspaces": {
+    "${workspaceFolder}\\USBPowerMetre.eww": {
+      "configs": {
+        "${workspaceFolder}\\USBPowerMetre.ewp": "Debug"
+      },
+      "selected": {
+        "path": "${workspaceFolder}\\USBPowerMetre.ewp"
+      }
+    }
+  },
+  "workbench": {
+    "path": "E:\\IAR Systems\\Embedded Workbench 8.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stm8s_clk.h": "c",
+        "stm8s.h": "c",
+        "delay.h": "c",
+        "adc.h": "c"
+    }
+}
